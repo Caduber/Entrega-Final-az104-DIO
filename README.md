@@ -1,8 +1,7 @@
 # Certificação AZ-104 – Resumo Completo
 
-## 🎯 Objetivo e perfil
+## Alguns temas abordados:
 - Implementar, gerenciar e monitorar ambiente Azure.
-- 6+ meses de experiência.
 - Ferramentas: Azure CLI, PowerShell, ARM/Bicep, portal, MS Entra ID.
 
 ## 1. Identidades & Governança
